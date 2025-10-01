@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/loopstudion-landing-page-q31LWxXiKx)
 - Live Site URL: [live site URL](https://abdulrrahmann.github.io/loopstudio-landing-page/)
 
 ## My process
